@@ -4,41 +4,7 @@
   </div>
 </h2>
 
-<style>
-  .led-marquee {
-    width: 100%;
-    overflow: hidden;
-    box-sizing: border-box;
-    background: #0e0e0e;
-    border: 2px solid #a020f0;
-    border-radius: 10px;
-    padding: 12px 0;
-  }
-
-  .led-marquee span {
-    display: inline-block;
-    white-space: nowrap;
-    color: #f0f; /* Roxo neon */
-    font-family: 'Courier New', monospace;
-    font-size: 1.5rem;
-    font-weight: bold;
-    animation: scroll-left 10s linear infinite;
-    text-shadow: 0 0 5px #f0f, 0 0 10px #f0f, 0 0 15px #f0f;
-  }
-
-  @keyframes scroll-left {
-    0% {
-      transform: translateX(100%);
-    }
-    100% {
-      transform: translateX(-100%);
-    }
-  }
-</style>
-`
-
-
-
+ <img>https://tenor.com/ydPI.gif</img>
 
 
 # 💻 linguagens:
