@@ -1,26 +1,42 @@
-<h2 align="center">
-  <span class="mr-snow-banner">✨ Eu sou Mr. Snow ✨</span>
+ <h2 align="center">
+  <div class="led-marquee">
+    <span>✨ EU SOU MR. SNOW ✨</span>
+  </div>
 </h2>
 
 <style>
-  .mr-snow-banner {
-    display: inline-block;
-    color: #fff;
-    background: linear-gradient(90deg, #7f00ff, #e100ff);
-    padding: 10px 20px;
+  .led-marquee {
+    width: 100%;
+    overflow: hidden;
+    box-sizing: border-box;
+    background: #0e0e0e;
+    border: 2px solid #a020f0;
     border-radius: 10px;
-    font-family: 'Courier New', monospace;
-    font-size: 1.5rem;
-    animation: fadeInOut 4s ease-in-out infinite;
+    padding: 12px 0;
   }
 
-  @keyframes fadeInOut {
-    0% { opacity: 0; transform: translateY(-10px); }
-    25% { opacity: 1; transform: translateY(0); }
-    75% { opacity: 1; transform: translateY(0); }
-    100% { opacity: 0; transform: translateY(10px); }
+  .led-marquee span {
+    display: inline-block;
+    white-space: nowrap;
+    color: #f0f; /* Roxo neon */
+    font-family: 'Courier New', monospace;
+    font-size: 1.5rem;
+    font-weight: bold;
+    animation: scroll-left 10s linear infinite;
+    text-shadow: 0 0 5px #f0f, 0 0 10px #f0f, 0 0 15px #f0f;
+  }
+
+  @keyframes scroll-left {
+    0% {
+      transform: translateX(100%);
+    }
+    100% {
+      transform: translateX(-100%);
+    }
   }
 </style>
+`
+
 
 
 
