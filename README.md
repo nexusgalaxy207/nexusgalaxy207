@@ -3,9 +3,8 @@
     <span>✨ EU SOU MR. SNOW ✨</span>
   </div>
 </h2>
- ![Mr. Snow](![Mr. Snow](https://media.tenor.com/ABCDE12345AAA.gif)
- )
-
+ 
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=✨+EU+SOU+MR.+SNOW+✨" alt="Letreiro Mr. Snow" />
 
  
 
