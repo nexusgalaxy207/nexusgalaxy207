@@ -4,9 +4,8 @@
   </div>
 </h2>
  
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=✨+EU+SOU+MR.+SNOW+✨" alt="Letreiro Mr. Snow" />
-
  
+<img width="600" alt="Letreiro Mr. Snow" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjUwJyB2aWV3Qm94PSIwIDAgNjAwIDUwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxkZWZzPjxsaW5lYXJHcmFkaWVudCBpZD0iZyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPjxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNmMDBmMjAwOyIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6I2UwMDAwZjsiLz48L2xpbmVhckdyYWRpZW50PjwvZGVmcz48cmVjdCB3aWR0aD0iNjAwIiBoZWlnaHQ9IjUwIiBmaWxsPSIjMDEwMDEwIi8+PHRleHQgeD0iNjAwIiB5PSIzNSIgZm9udC1mYW1pbHk9IkNvdXJpZXIgTmV3LCBtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMjQiIGZpbGw9IiNmZjAiIGFuaW1hdGVUcmFuc2Zvcm09InRyYW5zbGF0ZSh2ZXJ0aWNhbCspfSBbMCUgLTYwMCUgXSIgPjxhbmltYXRlQXR0cmlidXRlVmFsdWUgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoNjAwKSIgZnJvbT0iNjAwIiB0bz0iLTEwMDAiIGR1cj0iMTBzIiByZXBlYXRDb3VudD0iaW5maW5pdGUiIC8+4pqUIF8gRVUgU09VIE1SLiBTTk9XIF8g4pqUIFwvPjwvdGV4dD48L3N2Zz4=">
 
 
 # 💻 linguagens:
