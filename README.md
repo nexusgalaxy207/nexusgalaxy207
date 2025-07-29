@@ -4,7 +4,8 @@
   </div>
 </h2>
 
- <img>https://tenor.com/ydPI.gif</img>
+![Mr. Snow GIF](https://tenor.com/ydPI.gif)
+ 
 
 
 # 💻 linguagens:
