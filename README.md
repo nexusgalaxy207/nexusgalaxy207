@@ -3,14 +3,7 @@
     <span>✨ EU SOU MR. SNOW ✨</span>
   </div>
 </h2>
- 
- 
-<img width="600" alt="Letreiro Mr. Snow" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAwIiBoZWlnaHQ9IjUwIiB2aWV3Qm94PSIwIDAgNjAwIDUwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0eWxlPSJzdG9wLWNvbG9yOiNmMGY7Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3R5bGU9InN0b3AtY29sb3I6I2EwMjBmMDsiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI2MDAiIGhlaWdodD0iNTAiIGZpbGw9IiMxMDEwMTAiLz4KICA8dGV4dCB4PSI2MDAiIHk9IjM1IiBmb250LWZhbWlseT0iQ291cmllciBOZXcsIG1vbm9zcGFjZSIgZm9udC1zaXplPSIyNCIgZmlsbD0idXJsKCNnKSI+CiAgICA8YW5pbWF0ZVRyYW5zZm9ybSBhdHRyaWJ1dGVOYW1lPSJ0cmFuc2Zvcm0iIHR5cGU9InRyYW5zbGF0ZSIgZnJvbT0iNjAwIiB0bz0iLTgwMCIgZHVyPSIxMHM
-iIHJlcGVhdENvdW50PSJpbmZpbml0ZSIgLz4KICAgIOKaliBFVSBTT1UgTVIuIFNOT1cg4pqUIAogIDwvdGV4dD4KPC9zdmc+" />
- 
-
-
-# 💻 linguagens:
+ # 💻 linguagens:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=nexusgalaxy207&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
