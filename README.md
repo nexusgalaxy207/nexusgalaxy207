@@ -3,8 +3,9 @@
     <span>✨ EU SOU MR. SNOW ✨</span>
   </div>
 </h2>
-(![Mr. Snow](<img width="480" height="296" alt="image" src="https://github.com/user-attachments/assets/2054286b-3c53-4d79-96b8-dd4f10363cf6" />
-))
+ ![Mr. Snow](![Mr. Snow](https://media.tenor.com/ABCDE12345AAA.gif)
+ )
+
 
  
 
